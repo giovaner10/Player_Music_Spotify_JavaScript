@@ -38,5 +38,5 @@ Esse projeto foi elaborado durante o bootcamp de FullStack Java da [SoulCode](ht
 ## :framed_picture: Imagens do Site
 
 
- ![foto1](https://github.com/giovaner10/ToDoList_JavaScript/blob/main/img/Captura%20de%20tela%202022-03-06%20103144.png)   ![foto](https://github.com/giovaner10/ToDoList_JavaScript/blob/main/img/Captura%20de%20tela%202022-03-15%20163244.png) 
-  ![foto2](https://github.com/giovaner10/ToDoList_JavaScript/blob/main/img/Captura%20de%20tela%202022-03-15%20163341.png)
+ ![foto1](https://github.com/giovaner10/Player_Music_Spotify_JavaScript/blob/main/img/Captura%20de%20tela%202022-03-04%20234137.png)   ![foto](https://github.com/giovaner10/Player_Music_Spotify_JavaScript/blob/main/img/Captura%20de%20tela%202022-03-04%20234155.png) 
+  ![foto2](https://github.com/giovaner10/Player_Music_Spotify_JavaScript/blob/main/img/Captura%20de%20tela%202022-03-04%20234250.png)
